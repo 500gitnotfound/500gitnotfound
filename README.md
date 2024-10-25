@@ -2,7 +2,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/demiurg906/demiurg906/master/about.png"> More about me
 ```
-val awesomejohn = developer {
+val john = developer {
     about {
         name = "John Jackson"
         company = Lennar
